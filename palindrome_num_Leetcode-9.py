@@ -11,3 +11,5 @@ class Solution:
         return rev==x
 
 
+# obj=Solution()
+# print(obj.isPalindrome(121))
